@@ -1,6 +1,4 @@
 # Hi!
-<br>
-
 ## GitHub Stats
 
 <a href="https://github.com/LYNBZ1018">
@@ -12,7 +10,7 @@
 
 
 
-* Email
+## Email
 
   * liuyunuo1018@163.com
 
