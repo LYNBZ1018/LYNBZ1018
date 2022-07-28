@@ -1,7 +1,7 @@
 # Hi!
 
 
-<hr>
+
 
 <div  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYNBZ1018&hide=&title_color=##282C34&text_color=#282C34&icon_color=2bbc8a&bg_color=#FFFEFE&langs_count=3" /></div>
 
@@ -28,6 +28,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+
+<br>
 
 **Tools and Environments**
 
