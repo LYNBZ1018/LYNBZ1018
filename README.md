@@ -1,18 +1,12 @@
 # Hi!
 
-
-
-
-<div  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYNBZ1018&hide=&title_color=##282C34&text_color=#282C34&icon_color=2bbc8a&bg_color=#FFFEFE&langs_count=3" /></div>
-
 <p align="center">
-  <a href="https://github.com/LYNBZ1018" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=LYNBZ1018&title_color=333&text_color=777" alt="LYNBZ1018's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
-  </a>
 </p>
+
 
 <div align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com?user=LYNBZ1018&date_format=M%20j%5B%2C%20Y%5D" /> </div>
 
@@ -59,6 +53,6 @@
 
   * liuyunuo1018@163.com
 
-  * liuyunuo1018@qq.com
+  * liuyunuo1018@gmail.com
 
     
